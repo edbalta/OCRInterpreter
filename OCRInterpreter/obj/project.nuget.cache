@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EYLhCINkT5pjvwxK0oVh1EA8NWblMM1nn5Y6s7JAg9KHGDKS2ixNeMddsY/Mpk7oP7Xz/t5HFtt9toKAGg2Hgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\enes.delibalta\\RiderProjects\\grpc\\OCRInterpreter\\OCRInterpreter\\OCRInterpreter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\enes.delibalta\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

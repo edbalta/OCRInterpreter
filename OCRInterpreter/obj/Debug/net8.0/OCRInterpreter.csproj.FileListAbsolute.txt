@@ -1,0 +1,17 @@
+C:\Users\enes.delibalta\RiderProjects\grpc\OCRInterpreter\OCRInterpreter\bin\Debug\net8.0\OCRInterpreter.exe
+C:\Users\enes.delibalta\RiderProjects\grpc\OCRInterpreter\OCRInterpreter\bin\Debug\net8.0\OCRInterpreter.deps.json
+C:\Users\enes.delibalta\RiderProjects\grpc\OCRInterpreter\OCRInterpreter\bin\Debug\net8.0\OCRInterpreter.runtimeconfig.json
+C:\Users\enes.delibalta\RiderProjects\grpc\OCRInterpreter\OCRInterpreter\bin\Debug\net8.0\OCRInterpreter.dll
+C:\Users\enes.delibalta\RiderProjects\grpc\OCRInterpreter\OCRInterpreter\bin\Debug\net8.0\OCRInterpreter.pdb
+C:\Users\enes.delibalta\RiderProjects\grpc\OCRInterpreter\OCRInterpreter\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\enes.delibalta\RiderProjects\grpc\OCRInterpreter\OCRInterpreter\obj\Debug\net8.0\OCRInterpreter.csproj.AssemblyReference.cache
+C:\Users\enes.delibalta\RiderProjects\grpc\OCRInterpreter\OCRInterpreter\obj\Debug\net8.0\OCRInterpreter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes.delibalta\RiderProjects\grpc\OCRInterpreter\OCRInterpreter\obj\Debug\net8.0\OCRInterpreter.AssemblyInfoInputs.cache
+C:\Users\enes.delibalta\RiderProjects\grpc\OCRInterpreter\OCRInterpreter\obj\Debug\net8.0\OCRInterpreter.AssemblyInfo.cs
+C:\Users\enes.delibalta\RiderProjects\grpc\OCRInterpreter\OCRInterpreter\obj\Debug\net8.0\OCRInterpreter.csproj.CoreCompileInputs.cache
+C:\Users\enes.delibalta\RiderProjects\grpc\OCRInterpreter\OCRInterpreter\obj\Debug\net8.0\OCRInter.524875F2.Up2Date
+C:\Users\enes.delibalta\RiderProjects\grpc\OCRInterpreter\OCRInterpreter\obj\Debug\net8.0\OCRInterpreter.dll
+C:\Users\enes.delibalta\RiderProjects\grpc\OCRInterpreter\OCRInterpreter\obj\Debug\net8.0\refint\OCRInterpreter.dll
+C:\Users\enes.delibalta\RiderProjects\grpc\OCRInterpreter\OCRInterpreter\obj\Debug\net8.0\OCRInterpreter.pdb
+C:\Users\enes.delibalta\RiderProjects\grpc\OCRInterpreter\OCRInterpreter\obj\Debug\net8.0\OCRInterpreter.genruntimeconfig.cache
+C:\Users\enes.delibalta\RiderProjects\grpc\OCRInterpreter\OCRInterpreter\obj\Debug\net8.0\ref\OCRInterpreter.dll
